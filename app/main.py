@@ -19,4 +19,4 @@ def home_view(request: Request):
 def home_detail_view():
     return {"Hello": "World"}
 
-## YOUTUBE TUTORIAL MIN: 28:27 ##
+## YOUTUBE TUTORIAL MIN:  ##
